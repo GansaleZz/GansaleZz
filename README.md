@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![GansaleZz's GitHub stats](https://github-readme-stats.vercel.app/api?username=GansaleZz&show_icons=true&theme=radical)
 
 
 <!--
